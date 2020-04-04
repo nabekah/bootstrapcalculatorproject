@@ -1,0 +1,41 @@
+﻿body {
+    background-color:white;
+
+}
+
+.stRow{
+    background-color:grey;
+    color:white;
+    text-align:right;
+    padding: 8px 8px 8px 8px;
+
+
+
+    
+}
+.ndRow {
+    background-color: lightgrey;
+    color: black;
+
+    text-align: center;
+    /*padding: 2px 2px 2px 2px;*/
+    border-bottom:0.2px solid;
+    border-bottom-color:grey;
+
+    /*border: 0.2px inset;
+    border-color: grey;*/
+}
+
+.oBox {
+    background-color: orange;
+    color: white;
+}
+
+.aBox {
+    border-left: 0.2px solid;
+    border-right: 0.2px solid ;
+    border-right-color: grey;
+    border-left-color:grey;
+     
+
+}
